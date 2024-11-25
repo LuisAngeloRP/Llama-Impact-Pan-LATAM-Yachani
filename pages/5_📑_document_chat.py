@@ -270,7 +270,7 @@ def main():
     # Inicializar el cliente de AI/ML API
     if 'aiml_client' not in st.session_state:
         st.session_state.aiml_client = AimlApiChat(
-            api_key=os.getenv("AIML_API_KEY")
+            api_key=st.secrets["AIML_API_KEY"]
         )
 
     # Layout principal

@@ -5,6 +5,7 @@ from datetime import datetime
 from utils.document_manager import DocumentManager
 
 # Cargar variables de entorno
+AIML_API_KEY = st.secrets["AIML_API_KEY"]
 OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
 
 # Configuración de la página
