@@ -1,0 +1,17 @@
+[
+  {
+    "role": "assistant",
+    "content": "¡Hola! Soy Tutor Python, tu Tutor Personal.\n                Estoy aquí para ayudarte con los documentos que has seleccionado.\n                Para obtener mejores resultados, por favor sé específico en tus preguntas.",
+    "timestamp": "2024-11-25T13:39:47.175860"
+  },
+  {
+    "role": "user",
+    "content": "hola amigo",
+    "timestamp": "2024-11-25T13:39:52.904288"
+  },
+  {
+    "role": "assistant",
+    "content": "¡Hola! ¿En qué puedo ayudarte hoy? ¿Tienes alguna pregunta sobre Python o necesitas ayuda con algún proyecto?",
+    "timestamp": "2024-11-25T13:39:55.662874"
+  }
+]
