@@ -1,12 +1,11 @@
 # Home.py
 import os
 import streamlit as st
-from dotenv import load_dotenv
 from datetime import datetime
 from utils.document_manager import DocumentManager
 
 # Cargar variables de entorno
-load_dotenv()
+OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
 
 # Configuración de la página
 st.set_page_config(
