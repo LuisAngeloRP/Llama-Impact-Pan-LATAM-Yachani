@@ -49,13 +49,7 @@ Nuestra biblioteca ofrece una amplia gama de documentos educativos **categorizad
 
 4. **Configura las variables de entorno:**
 
-    - Copia el archivo de ejemplo `.env.example` y ajústalo a tus configuraciones en un nuevo archivo `.env`:
-
-      ```bash
-      cp .env.example .env
-      ```
-
-    - En el archivo `.env`, agrega tu clave de AI/ML API:
+    - En el archivo `secrets.toml` dentro de `.streamlit/secrets.toml`, agrega tu clave de AI/ML API:
 
       ```env
       AIML_API_KEY = ...

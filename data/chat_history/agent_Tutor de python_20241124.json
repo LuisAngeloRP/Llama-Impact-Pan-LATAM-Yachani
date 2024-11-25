@@ -1,0 +1,22 @@
+[
+  {
+    "role": "assistant",
+    "content": "¡Hola! Soy Tutor de python, tu Tutor Personal.\n                Estoy aquí para ayudarte con los documentos que has seleccionado.\n                Para obtener mejores resultados, por favor sé específico en tus preguntas.",
+    "timestamp": "2024-11-24T23:26:04.193673"
+  },
+  {
+    "role": "user",
+    "content": "asdas",
+    "timestamp": "2024-11-24T23:26:07.244177"
+  },
+  {
+    "role": "assistant",
+    "content": "Lo siento, no entiendo lo que quieres decir con \"asdas\". ¿Podrías reformular tu pregunta de manera más clara? Recuerda que puedo buscar información en los documentos base para ayudarte. ¿Hay algo específico que te gustaría saber?",
+    "timestamp": "2024-11-24T23:26:09.516528"
+  },
+  {
+    "role": "assistant",
+    "content": "Parece que has ingresado una cadena de caracteres aleatoria. ¿Podrías reformular tu pregunta para que pueda entender mejor lo que necesitas?\n\n¿Estás buscando información sobre un tema específico en Python? ¿Necesitas ayuda con un problema en particular? Por favor, proporciona más detalles para que pueda ayudarte de manera efectiva.",
+    "timestamp": "2024-11-24T23:26:11.410529"
+  }
+]
